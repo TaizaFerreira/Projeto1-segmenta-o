@@ -1,4 +1,4 @@
-# Ficha técnica Projeto 1: Segmentação
+# Portifólio Projeto 1: Segmentação
 
 Criada em: 28 de março de 2025 23:43
 : Tecnologia
